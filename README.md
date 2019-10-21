@@ -1,4 +1,4 @@
-# Sports Tournament Manager
+# Site Jogos Eletrônicos
 Content Languages:<br/>
 [[PT - Português]](#pt)<br/>
 [[EN - English]](#en)
