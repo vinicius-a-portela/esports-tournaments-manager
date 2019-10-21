@@ -27,4 +27,5 @@ The website has:
 
 ## Criadores (Creators)
 Vinícius de Araújo Portela -> vinicius-a-portela
+
 Gabriel Cesar -> gabrielcesar16
