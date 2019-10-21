@@ -1,2 +1,2 @@
-# esports-tournaments-manager
-A website for managing a tournament of games
+# sports-tournament-manager
+A website for managing a sports tournament
