@@ -1,7 +1,7 @@
 # Site Jogos Eletrônicos
 Content Languages:<br/>
-[[PT - Português]](#pt)<br/>
-[[EN - English]](#en)
+> [🇧🇷 PT - Português](#pt)<br/>
+> [🇺🇸 EN - English](#en)
 
 ## Um site para o controle do seu torneio de jogos [PT]<a name="pt"></a>
 O site foi desenvolvido no ano letivo de 2019.1 para o suporte ao Jogos Eletrônicos que ocorreria em Santarém - Pará - Brasil.
@@ -26,6 +26,6 @@ The website has:
 * A administrator screen with a list of phones, users, teams and a overview, besides the payment control.
 
 ## Criadores (Creators)
-Vinícius de Araújo Portela -> vinicius-a-portela
+Vinícius de Araújo Portela -> vinicius-portela
 
 Gabriel Cesar -> gabrielcesar16
